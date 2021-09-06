@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(187, 187, 189);
+}
+h2 {
+    color: indigo;
+    font-size: 30px
+}
+h2 {
+    color: indigo;
+    font-size: 30px;
+}
+p {
+    color: rgb(37, 32, 32);
+    font-size: 18px;
+}
+footer {
+    color: rgb(255, 0, 0);
+    font-size: 25px;
+}
+.banner {
+    text-align: center;
+}
